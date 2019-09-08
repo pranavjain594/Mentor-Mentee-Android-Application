@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?><!--
+  ~ Copyright (c) 2015-present, Parse, LLC.
+  ~ All rights reserved.
+  ~
+  ~ This source code is licensed under the BSD-style license found in the
+  ~ LICENSE file in the root directory of this source tree. An additional grant
+  ~ of patent rights can be found in the PATENTS file in the same directory.
+-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.parse.starter">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
+    <application
+        android:name=".StarterApplication"
+        android:allowBackup="true"
+        android:icon="@mipmap/kiit"
+        android:label="Mentor Mentee"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".MainActivity"
+            android:label="Mentor Mentee">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".signup" />
+        <activity android:name=".student" />
+        <activity android:name=".mentor" />
+        <activity android:name=".leave" />
+        <activity android:name=".Complain" />
+        <activity android:name=".ststus" />
+        <activity android:name=".leaves" />
+        <activity android:name=".complains" />
+        <activity android:name=".lrqst" />
+        <activity android:name=".crqst" />
+        <activity android:name=".editprofile" />
+        <activity android:name=".mentorprofile" />
+        <activity android:name=".lliist" />
+        <activity android:name=".cliist" />
+        <activity android:name=".dean" />
+        <activity android:name=".leaverequesttodean" />
+        <activity android:name=".hostel"></activity>
+    </application>
+
+</manifest>

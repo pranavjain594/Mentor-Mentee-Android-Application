@@ -1,0 +1,590 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="98e97da89d4df8e2f6eba63498d3d46a587372f2">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.4.0_69cf1ac222e0cf15a245d47c15430b9899e313c0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="736d8893fb702f128a153c9d87c9c29724d37872">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.4.0_af8ee75080d97bcb26604ebe5d22cf644284709a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.4.0_850bc581b4e9ae03ea218e91d3270044f0f4faad\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="670df81539ab71918d49b186598b7eff08ef6563">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.4.0_53d225de492e9a6eda4e0cf344aed1a98f8c0f5a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\.gradle\caches\modules-2\files-2.1\com.android.support\support-annotations\26.0.0\db09a97f4f0db8892c1a0111a4b966f97920d082\support-annotations-26.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db09a97f4f0db8892c1a0111a4b966f97920d082">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-26.0.0_8e47fd999346995f63d7021565f028ddc688b89d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-utils\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="1a94a06ec585c9423a3c03bde1f7bf9268f83d66">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-26.0.0_8131164179ba61f4c8869c58790eb05a1e5b2f67\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d463d8eec1e6c1feef2cec6675ccb47e37c12ee1">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.4.0_38fa55cc7d3b7d3606ff517517f03bc253445cac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ece40b09e9d4d488bc270cf6af5a9af73bc1cfa3">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.4.0_a02417a35fed75c8beeb2cdca5a5abe41b1895b0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-v4\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-26.0.0_68ec7b31c28fd145cf0e349ea3d080df02c0db30\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8ce5e7a4a146dddd1d9e66b09c714a6c149916d8">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.4.0_607c12c30d121148c3dcfca3c9083370b5e0b6e7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8602ab07133e6ee182726fa27588420dba9d6d55">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-26.0.0_ff5a48cae69b32d1d670957be1a7337c035f2c5b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a8655e6077da9526c0c94bf063f1275430ce8574">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-26.0.0_917de089a8446166cb226e7c9d7741414ffd34ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-gass\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15f898c9047f9d612a63000126b485dd024eaac">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gass-9.4.0_03af8a93b8b10afe0fa66aaa3a797c51b353463c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="59a16a4a42d25b2c243dd1e8aea87d06895b4a06">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.4.0_5055d26f926c4f5002b8685cd6c2a3097d7d7387\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.4.0_c049f3f97aaee4628d982b08ae3a1cd8c098e776\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.4.0_aa35058b6f7a96342aa588171253c171c04c2653\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e454c414a069241ee08444d187f2dd3a702596b5">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.4.0_28b2534fce14dfcbf72330e8d54d58d87a956871\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-places\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e35002351f2d415093a9b564652d4b56be6a0593">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-places-9.4.0_6cbcf02b7fd8535672145bed2f1b17c54c474980\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_7a710a855c0082413c4380092d109c45eed6da85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0e4d53465cc141bec58f18a894e4c4e80633fa32">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.4.0_33aabb1e8b3ff20277adb9c0e68c6adf788a393b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-media-compat\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="cbb26a4f659b17abc1f75ff735a607aa299697ac">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-26.0.0_e558a6363e6fc2d687bcefffde9947766d8cfa2b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="147edbec6bcea71fd675ecc63cae3319637ec2b4">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.4.0_ed73324c7de224cf475b5013260c2f6f445c9535\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d49118ba67a101c4895f0581f17142cba85b330b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.4.0_40364042427d4f65d43df825d5c65928aeafcbdb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58c9f5ee817fdb8b658fd7455fadfb74119f7ee9">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.4.0_4fd65cbe90bd06f17f9742f4edb8c4c6084b2508\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="954697ee6ea7bdd596babf4f70e8b7a17ca7649e">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.4.0_2aa569e90b427b5d46e320c4f1664b640ddcd512\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="34762013d39dbe6c656050589c44e8b61b9a2c5d">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.4.0_80e6eda2293c5ddda6ddc6b6817b1c2ddcdfa4c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3b7173b3df4c7029699919414400041f64519e34">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.4.0_4ae8747b41edfc17ba363df6bba43910e481dc39\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\bolts-tasks-1.4.0_e3b40d6aaf8af555ddb7546669ebe629883793bd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-clearcut\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd763e0269f2854f5828ae62dd968b80bff6a0db">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-clearcut-9.4.0_ad81fd84c863bb48d558ac25665c5145fcdf1c29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b9d48baf96c7e187991a9befa833bebd181960a9">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.4.0_29e65e7506136735f79a9c648115b53365342ce7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6bc41d9d6fd12d2ef23c785a259011001f4a1a5b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.4.0_dacd92e6d4572e7471c48e78424a6df43a90071b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_53d25d322a67f234fb61fc5468dc5fa07fac1e2c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support.constraint\constraint-layout\1.1.3\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b15c6ded887ad967e20bb335c1a121b253c04dce">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support.constraint-constraint-layout-1.1.3_497ba089aa65b79f02f840259c3ed1423c458c97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="88848548ab56d4fbf3d2d1b0c85bf1ff9b4c1f4b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.4.0_ae8fa00826f889f795d0244e9052c04a75a98b04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dd51b31890731591729f046d7a09c4fe4e483ed1">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.4.0_a4585fd37223e3f9eb349fc2634abe79b1114c79\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.4.0_f279270c6a19e9eb271f94d32c9a82b3e7d5ddd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-fragment\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="f7b86f1beb2b3625c6a1a5da6b5fc5294b64aea9">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-26.0.0_e5b329b850fec650a28e71c34cf1dba51dbcc584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e6e2251f3d3abf4eecd6bf6919d41fc7af497852">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.4.0_6a5fbe7c3ffde0eb62cdb72d336389030123847a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b1acf13f1b7d8232af78a30833f9a966d1394c84">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.4.0_d6f12345d93d6e6d8f259a0f2c85ad153693e7e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b630471536351be7c3c3100735c75b7ad2cbd84">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.4.0_fea701ae2ce3db7ff2d3b9f22b7c04ea4a8e631e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="5e04c0b3683ca45b343284d93e5594b5f9044551">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.4.0_f2582a97a85a0b039a2ab04133659f4377150e0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7ea53c4458b80e8ea71f7fd6831fa184c501377b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.4.0_c867c87c9971c7ca880a16edd7eea88bf08b5584\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a432629397351d3ec7f27a23d258b229b81af08f">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.4.0_f4aaea3778006de7038af22cfa4d9e59337bef00\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\appcompat-v7\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="db0171d21d064bab7ad72685f3c7df40544b03a8">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-26.0.0_0486cc71515fc35523e6b838074472b4b60ca9df\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.4.0_2ec33f91d019d2bc725de3daa6610bc2c6b59b95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ba47b210d36301e237ccfea860eaada04590f12a">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.4.0_eb8c8c8df161c1999172bfbffc2de462b3585bf9\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="7bc6ea2bcfd6de4b7085e0f3a01616c5c8e0e2ad">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.4.0_1aad363e6fb6ab1ed3193cf40d2222d266423d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4348dd26d83b56c2058b768222c3271bce911724">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.4.0_422664c47ca98e08a3e65b2fcf0ed130ffc8e8c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2520dd452fb1f487eba29ccd2d44358f0b8da788">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-26.0.0_b3b212bb9f3977e56d46fd9944694b667d8465f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-contextmanager\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="72eacac37fc64e95d53abd2a041bf81a952d8615">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-contextmanager-9.4.0_0bb97e0e14b76028b18f7df068110b4d00ecd851\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="a440fb3fec30ff925e9f601cc458fb6671834cb2">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.4.0_543641af201e18a21de37a8206543f2e8aabb54a\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="dab6944860c986980dcc6002a5ca2f127b587317">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.4.0_ae24eb76fc04eeed9181ffaaaf0f6a5ee6c208a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="461e4257888c25ec05abcd91e758fe7f4949230a">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.4.0_ea3e751ee51d629dd4b78cac3fbe149b2401ce32\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="84bf369090a8f7e293817efbd6ccf31ada1be32b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.4.0_e34a62f6001696df80c452cbd9f0e1f91da16816\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\.gradle\caches\modules-2\files-2.1\com.parse\parse-android\1.13.0\58a7d54b6a4f28be11f0cecec93097eddf473e6f\parse-android-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="58a7d54b6a4f28be11f0cecec93097eddf473e6f">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\parse-android-1.13.0_d3af4337279a9eecbff5d0bbf072fdcb15cd98c1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\.gradle\caches\modules-2\files-2.1\com.android.support.constraint\constraint-layout-solver\1.1.3\bde0667d7414c16ed62d3cfe993cff7f9d732373\constraint-layout-solver-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="bde0667d7414c16ed62d3cfe993cff7f9d732373">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\constraint-layout-solver-1.1.3_f69d9b617178107dc5d3327234146da3a751825c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="8197651ce1af4d89b47f4545cc720bc4f8611e7d">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.4.0_b6a69577f91b5b99a4dc974fbd98469a6f349ab2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="e5e8e535d15834e824817bdf5370556f62b4b2a5">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.4.0_de12d587178c1ee807fa2824050907f8d5754ba5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="4b6d9b70f93bbeb872d0948bc064ae3f3f2bcbac">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.4.0_5d4f10187e88900fbcc4e15d3245eae0d8c2428d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\support-core-ui\26.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="b102f892442929c3457de1ef6a94f5dda3dd8864">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-26.0.0_e9c7d868b90768174fcf2b492dfbefbc44f532d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.android.support\multidex\1.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="6666dd525c3da197e7d07f4f23ef5fc7881a697b">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-multidex-1.0.0_b0d95cb2ef0280b2795c1c72f36e236e1d989061\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="c8f5d56f8f8a287c95e02c542baade138a378048">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.4.0_7a4a6603344012b8c50cc9a9f2e4909f373552d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0b060160e7daee343f5315b3da91b0ff2d7eed89">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.4.0_8074f18b2a226abc26f5a11c1ddeb57809349d3f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="0ad33eb600f3d80bdff5ce355c90d5533ade652a">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.4.0_c1ccf0c524197a1f6274248f47a7617c55b02a9e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast-framework\9.4.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="03829a2618892d438a1f59c6286699ca1f476e93">
+        <dex dex="C:\Users\KIIT\Desktop\Mentor\ParseStarterProject\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-framework-9.4.0_881f82518b2ddb3eae29da0fe1855e31dc2c5fb8\classes.dex" />
+    </item>
+
+</items>
